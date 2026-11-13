@@ -1,0 +1,13 @@
+# Сырые данные (большие, всегда можно скачать заново с официальных источников)
+data/*.xls
+data/*.xlsx
+data/*.csv
+data/*.zip
+data/*.xml
+data/poved_mapping.json
+
+# Служебные файлы
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
